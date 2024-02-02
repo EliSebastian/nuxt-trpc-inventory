@@ -13,5 +13,11 @@
     "nuxt": "^3.10.0",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@trpc/client": "^10.45.0",
+    "@trpc/server": "^10.45.0",
+    "trpc-nuxt": "^0.10.17",
+    "zod": "^3.22.4"
   }
 }
